@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container-fluid
+{
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+}
+.container-fluid .a {
+  justify-content: center;
+  padding: 100px;
+}
